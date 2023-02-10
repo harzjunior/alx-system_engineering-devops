@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R +rwx ./*
+find . -type d -exec chmod +rwx {} +
