@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# same as task 0 but -f added to ln to force remove the file if exist
-ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
-sudo service nginx restart
-rm /run/nginx.pid
+# configures nginx to run on port 80
+sed -i 's/8080/80/g' /etc/nginx/sites-enabled/default
+pkill -1 nginx
