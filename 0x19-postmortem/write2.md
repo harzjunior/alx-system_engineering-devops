@@ -1,7 +1,5 @@
 **Postmortem: Web Stack Outage Comedy Special 🎉**
 
-![Web Stack Outage](insert_funny_diagram_link_here)
-
 ![image](https://github.com/harzjunior/alx-system_engineering-devops/assets/16290008/0ab1c33b-db2e-48e1-80f4-14a0e8648f20)
 
 **Issue Summary:**
