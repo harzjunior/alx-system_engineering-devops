@@ -1,5 +1,8 @@
 **Postmortem: Web Stack Outage**
 
+![image](https://github.com/harzjunior/alx-system_engineering-devops/assets/16290008/ed36922f-8622-49f7-8d80-409443010e9d)
+
+
 **Issue Summary:**
 - **Duration:** 4 hours (14:00 to 18:00 UTC)
 - **Impact:** The user authentication service experienced downtime, affecting 20% of users who were unable to log in or access secured features.
